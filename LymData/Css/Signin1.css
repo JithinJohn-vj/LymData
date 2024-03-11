@@ -1,0 +1,758 @@
+.icon
+{
+    height:90px;
+    width:90px;
+    margin-top: 20px;
+}
+.section1
+{
+    margin-left: 80px;
+    width: 650px;
+    height: 900px;
+}
+.section1 h6
+{
+    color:darkgray;
+
+}
+.text
+{
+    margin-top: 10px;
+    border: 1px solid darkgrey;
+    border-radius: 20px;
+    width: 500px;
+    height: 55px;
+}
+.section1 a
+{
+    color:black;
+}
+.passline
+{
+    border-left: 1px solid black;
+    position: absolute;
+    margin-left: 430px;
+    height: 30px;
+    margin-top: -42px;
+}
+    
+    .eye {
+    width: 25px;
+    height: 25px;
+    margin-left: 7px;
+    border: solid 2px whitesmoke;
+    background-color: rgb(160, 176, 183);
+    transform: rotate(45deg);
+    border-radius: 75% 15%;
+    }
+    
+    .circle {
+    border: 2px solid white;
+    background-color: rgb(160, 176, 183);
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin-top:5.3px;
+    margin-left: 6px;
+    }
+    
+  .box
+  {
+    margin-left: 440px;
+    margin-top: -40px;
+  }
+.checkbox
+{
+    display: flex;
+    justify-content: space-around;
+    width: 600px;
+    margin-top: 40px;
+}
+.form-check
+{
+    margin-left: -110px;
+}
+
+.Sign
+{
+    width: 500px;
+    height: 60px;
+    border-radius:20px;
+    margin-top: 25px;
+    border:0px solid cadetblue;
+    background-color: rgba(4, 34, 48, 0.93);
+    color: white;
+}
+.butt
+{
+    width: 500px;
+    height: 60px;
+    border-radius:30px;
+    margin-top: 33px;
+   background-color: white;
+   border: 1px solid black;
+}
+.google
+{
+    width: 30px;
+    height: 30px;
+    margin-left: -400px;
+    margin-top: 5px;
+}
+.facebook
+{
+    width:30px;
+    height: 30px;
+    margin-top: 3px;
+    margin-left: -400px;
+}
+.butt h6
+{
+    margin-top: -20px;
+}
+.line
+{
+    width: 490px;
+    margin-top: 50px;
+    border-bottom: 1px solid grey;
+    border-left: 0px solid white;
+    border-right: 0px solid white;
+    border-top: 0px solid white;
+}
+.buttonl
+{
+    margin-left: 230px;
+    margin-top: -15px;
+    position: absolute;
+    background-color: white;
+    border-radius: 3px;
+    border: 0px solid white;
+}
+
+.section2
+{
+    width: 750px;
+    height: 900px;
+    background-color: rgba(59, 98, 96, 0.462);
+}
+.All
+{
+    display: flex;
+    justify-content: space-around;
+}
+.head1
+{
+    width: 30px; 
+    height: 20px; 
+    border-radius: 50% 50% 0 0; 
+    border: 3px solid white; 
+    border-bottom: none; 
+    background-color: transparent; 
+}
+.headphone
+{
+    margin-left: 320px;
+    margin-top: 50px;
+}
+.head2
+{
+    border-right: 3px solid whitesmoke;
+    border-bottom: 2px solid whitesmoke;
+    margin-left: 15px;
+    width: 15px;
+    height: 10px;
+}
+.eybrow1
+{
+    width: 12px;
+    height: 5px;
+    margin-top: -25px;
+    margin-left: 3px;;
+    border: 2px solid whitesmoke;
+    background-color:whitesmoke;
+    transform: rotate(160deg);
+    border-radius: 75% 15%;
+}
+.eybrow2
+{
+    width: 12px;
+    height: 5px;
+    margin-top: -5px;
+    margin-left: 15px;;
+    border: 2px solid whitesmoke;
+    background-color:whitesmoke;
+    transform: rotate(40deg);
+    border-radius: 75% 15%;
+}
+.ey1
+{
+    border: 2px solid whitesmoke;
+    background-color: whitesmoke;
+    margin-left: 7px;
+    margin-top: 2px;
+    width: 3px;
+    height: 3px;
+    border-radius: 50%;
+
+}
+.ey2
+{
+    border: 2px solid whitesmoke;
+    background-color: whitesmoke;
+    margin-left: 18px;
+    margin-top: -4px;
+    width: 3px;
+    height: 3px;
+    border-radius: 50%;
+
+}
+.part1
+{
+    border: 1px solid whitesmoke;
+    background-color: whitesmoke;
+    border-radius: 5px;
+    width: 4px;
+    height: 8px;
+    margin-left: 28px;
+}
+.part2
+{
+    border: 1px solid whitesmoke;
+    background-color: whitesmoke;
+    border-radius: 5px;
+    width: 4px;
+    height: 6px;
+    margin-top: -9px;
+    margin-left: -1.5px;
+}
+.supp
+{
+    margin-left: 60px;
+    margin-top: -20px;
+    color: white;
+}
+.suitecase
+{
+    margin-top: 450px;
+    margin-left: 100px;
+
+}
+.suite1 {
+    width: 160px;
+    height: 90px;
+    border: 2px solid black;
+    border-radius: 20px 20px 0 0; 
+    border-bottom: none; 
+  }
+.suite2
+{
+    border: 2px solid black;
+    border-bottom: 0px solid transparent;
+    border-radius: 5px 5px 0 0;
+    margin-top: -108px;
+    margin-left: 60px;
+    width: 30px;
+    height: 20px;
+}
+.suite3
+{
+    border-left: 2px solid black;
+    margin-left: 134px;
+    height: 88px;
+}
+.suite4
+{
+    border-bottom: 2px solid black;
+    margin-top: -40px;
+    width: 136px;
+}
+.suite5
+{
+    border: 2px solid black;
+    margin-left: 60px;
+    margin-top: -8px;
+    background-color: rgb(2, 75, 106);
+    width: 22px;
+    height: 13px;
+}
+.mobile
+{
+    margin-left: 500px;
+    margin-top: -250px;
+    transform: rotateX(40deg);
+    transform: rotate(5deg);
+
+}
+.mob1
+{
+    border: 2px solid black;
+    border-radius: 4px;
+    background-color: black;
+    width: 60px;
+    height: 100px;
+}
+.mob2
+{
+    border: 2px solid black;
+    background-color: darkgray;
+    position: absolute;
+    margin-top: -84px;
+    margin-left: 28px;
+    border-radius: 50%;
+    width: 20px;
+    height: 20px;
+
+}
+.frame
+{
+    margin-top: -250px;
+    margin-left: 500px;
+}
+.frbox1
+{
+    border: 1px solid black;
+    border-radius: 4px;
+    width: 90px;
+    height: 120px;
+}
+.frbox2
+{
+    border: 2px solid black;
+    background-color: black;
+    margin-left: 1.3px;
+    margin-top: 76px;
+    border-radius: 4px;
+    width: 85px;
+    height: 40px;
+}
+.bx1
+{
+    border: 1px solid white;
+    background-color: white;
+    margin-top: 5px;
+    margin-left: 1px;
+    width: 20px;
+    height: 6px;
+}
+.bx2
+{
+    border: 1px solid white;
+    background-color: white;
+    margin-top: 2px;
+    margin-left: 30px;
+    margin-top: -6px;
+    width: 20px;
+    height: 6px;
+}
+.bx3
+{
+    border: 1px solid white;
+    background-color: white;
+    margin-left: 60px;
+    margin-top: -6px;
+    width: 20px;
+    height: 6px;
+}
+.bx4
+{
+    border: 1px solid white;
+    background-color: white;
+    margin-left: 1px;
+    margin-top: 8px;
+    width: 20px;
+    height: 3px;
+}
+.bx5
+{
+    border: 1px solid white;
+    background-color: white;
+    margin-left: 30px;
+    margin-top: -3px;
+    width: 20px;
+    height: 3px;
+}
+.bx6
+{
+    border: 1px solid white;
+    background-color: white;
+    margin-left: 60px;
+    margin-top: -2px;
+    width: 20px;
+    height: 3px;
+}
+.bx7
+{
+    border: 1px solid white;
+    background-color: white;
+    margin-top: 8px;
+    margin-left: 1px;
+    width: 20px;
+    height: 3px;
+}
+.bx9
+{
+    border: 1px solid white;
+    background-color: white;
+    margin-left: 60px;
+    margin-top: -3px;
+    width: 20px;
+    height: 3px;
+}
+.bx8
+{
+    border: 1px solid white;
+    background-color: white;
+    margin-left: 30px;
+    margin-top: -2px;
+    width: 20px;
+    height: 3px;
+}
+.frbox3
+{
+    border: 1px solid transparent;
+    background-color: skyblue;
+    margin-left: 1.6px;
+    margin-top: -73px;
+    border-radius: 3px;
+    width: 85px;
+    height: 30px;
+}
+.mountain {
+   min-height: 80;
+   width: 86px;
+   position: relative;
+   margin-left: -2px;
+   margin-top: 7px;
+  }
+  .frame4
+  {
+  }
+  .line1
+  {
+    border: 1px solid rgb(2, 75, 106);
+    background-color: rgb(2, 75, 106);
+    margin-top: -65px;
+    margin-left: 9px;
+    width: 25px;
+    height: 4px;
+  }
+  .line2
+  {
+    border: 1px solid rgb(2, 75, 106);
+    background-color:rgb(2, 75, 106);
+    border-radius: 3px;
+    margin-top: 7px;
+    margin-left: 9px;
+    width: 25px;
+    height: 4px;
+  }
+  .line3
+  {
+    border: 1px solid rgb(2, 75, 106);
+    background-color: rgb(2, 75, 106);
+    border-radius: 3px;
+    margin-top: 6px;
+    margin-left: 9px;
+    width: 25px;
+    height: 4px;
+  }
+  .lincirc1
+  {
+    border: 2px solid rgb(2, 75, 106);
+    background-color: rgb(2, 75, 106);
+    margin-left: 2px;
+    margin-top: -26px;
+    border-radius: 50%;
+    width: 6px;
+    height: 6px;
+  
+  }
+  .lincirc2
+  {
+    border: 2px solid rgb(2, 75, 106);
+    background-color: rgb(2, 75, 106);
+    margin-left: 2px;
+    margin-top:5px;
+    border-radius: 50%;
+    width: 6px;
+    height: 6px;
+  
+  }
+  .lincirc3
+  {
+    border: 2px solid rgb(2, 75, 106);
+    background-color: rgb(2, 75, 106);
+    margin-left: 2px;
+    margin-top: 4px;
+    border-radius: 50%;
+    width: 6px;
+    height: 6px;
+  
+  }
+  .lin1
+  {
+    border: 1px solid rgb(2, 75, 106) ;
+    background-color: rgb(2, 75, 106);
+    margin-top: -26px;
+    margin-left: 38px;
+    width: 13px;
+    height: 4px;
+
+  }
+  .lin2
+  {
+    border: 1px solid rgb(2, 75, 106) ;
+    background-color: rgb(2, 75, 106);
+    margin-left: 38px;
+    margin-top: 6.5px;
+    width: 13px;
+    height: 4px;
+
+  }
+  .lin3
+  {
+    border: 1px solid rgb(2, 75, 106) ;
+    background-color: rgb(2, 75, 106);
+    margin-left: 38px;
+    margin-top: 7px;
+    width: 13px;
+    height: 4px;
+
+  }
+  .loading
+  {
+    border: 2px solid white;
+    background-color: white;
+    border-radius: 3px;
+    margin-top: -30px;
+    margin-left: 55px;
+    width: 40px;
+    height: 35px;
+  }
+  .round
+  {
+    border: 7px solid rgb(2, 75, 106);
+    background-color: white;
+    margin-left: 3px;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+  }
+  .man
+  {
+    margin-left: 250px;
+    margin-top: -150px;
+
+  }
+  .head
+  {
+    border: 2px solid black;
+    border-radius: 60px 60px 50px 80px; 
+    margin-left: 20px;
+    width: 110px;
+    height: 150px;
+  }
+  .mear
+  {
+    border: 2px solid black;
+    border-radius: 50px 50px 0px 0px; 
+    transform: rotate(265deg);
+    margin-top: -80px;
+    margin-left: 5px;
+    width: 20px;
+    height: 15px;
+  }
+  .nose
+  {
+    border: 3px solid black;
+    border-left: 0px solid transparent;
+    border-top: 0px solid transparent;
+    /* transform: rotate(-10deg); */
+    margin-left: 76px;
+    margin-top: -15px;
+    width: 10px;
+    height: 22px;
+  }
+  .glass1
+  {
+    border: 2px solid black;
+    border-radius: 50%;
+    margin-top: -45px;
+    margin-left: 37px;
+    width: 45px;
+    height: 45px;
+  }
+  .glass2
+  {
+    border: 2px solid black;
+    border-radius: 50%;
+    margin-top: -42px;
+    margin-left: 88px;
+    width: 45px;
+    height: 45px;
+  }
+  .mey1
+  {
+    border: 2px solid black;
+    background-color: black;
+    margin-left: 57px;
+    margin-top: -20px;
+    border-radius: 50%;
+    width:8px;
+    height: 8px;
+  }
+  .mey2
+  {
+    border: 3px solid black;
+    background-color: black;
+    border-radius: 50%;
+    margin-left: 110px;
+    margin-top: -5px;
+    width:8px;
+    height: 8px;
+  }
+  .leg1
+  {
+    border: 3px solid black;
+    border-bottom: 0px ;
+    margin-top: -20px;
+    margin-left: 18px;
+    border-left: 0px;
+    border-right: 0px;
+    width: 19px;
+  }
+  .leg2
+  {
+    border: 3px solid black;
+    border-bottom: 0px;
+    border-left: 0px;
+    border-right: 0px;
+    margin-left: 80px;
+    width: 10px;
+  }
+  .mouth
+  {
+    border: 2px solid black;
+    border-top: 0px;
+    margin-top: 35px;
+    margin-left: 70px;
+    width: 20px;
+    height: 8px;
+    border-radius: 0px 0px 30px 30px; 
+    transform: rotate(25deg);
+  }
+  .eybrw1
+  {
+    border: 2px solid black;
+    background-color: black;
+    border-radius: 40px 40px 0px 0px; 
+    margin-left: 50px;
+    margin-top: -75px;
+    width: 18px;
+    height: 3px;
+  }
+  .eybrw2
+  {
+    border: 2px solid black;
+    background-color: black;
+    border-radius: 40px 40px 0px 0px; 
+    margin-left: 100px;
+    margin-top: 0px;
+    width: 18px;
+    height: 3px;
+  }
+  /* .hair1
+  {
+    border: 2px solid black;
+    background-color: black;
+    margin-top: -46px;
+    margin-left: 36px;
+  border-radius: 50%;
+    width: 30px;
+    height: 10px;
+  }
+  .hair2
+  {
+    border: 2px solid hsl(0, 0%, 2%);
+    background-color: black;
+    border-radius: 50%;
+    margin-top: 5px;
+    margin-left: 29px;
+    width: 20px;
+    height: 20px;
+  }
+  .hair3
+  {
+    border: 2px solid black;
+    border-radius:50%;
+    background-color: black;
+    margin-top: -50px;
+    margin-left: 57px;
+    width: 20px;
+    height: 10px;
+  }
+  .hair4
+  {
+    border: 2px solid black;
+    background-color: black;
+    border-radius: 50%;
+    margin-left: 51px;
+    margin-top: -28px;
+    width: 20px;
+    height: 20px;
+  }
+  .hair5
+  {
+    border: 10px solid black;
+    border-radius: 50%;
+    border-bottom: 0px;
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 20px;
+    height: 10px;
+  } */
+  .neck1 
+  {
+    width: 80px;
+    height: 30px; 
+    border-bottom-left-radius: 290px; 
+    border-bottom-right-radius: 290px; 
+    border: 2px solid black;
+    margin-left: 38px;
+    margin-top: 120px;
+    border-top: 0px;
+  }
+  .neck2
+  {
+    border-left: 2px solid black;
+    height: 40px;
+    margin-top: -70px;
+    margin-left: 38px;
+  }
+  .neck3
+  {
+    border-left: 2px solid black;
+    height: 32px;
+    margin-left: 116px;
+    margin-top: -30px;
+  }
+  .tshirt
+  {
+    border: 2px solid black;
+    margin-top: 6px;
+    background-color: rgb(2, 75, 106);
+    border-radius: 30px 40px 0 0;
+    width: 170px;
+    height: 120px;
+  }
+  .mline
+  {
+    border-left: 2px solid black;
+    position: absolute;
+    margin-top: -20px;
+    height: 15px;
+  }
+  
+  
+
+  

@@ -1,0 +1,120 @@
+.icon
+{
+    height:90px;
+    width:90px;
+    margin-left: -220px;
+}
+.section1
+{
+    margin-left: 80px;
+    width: 600px;
+}
+.section1
+{
+    display: flex;
+    width: 100%;
+    margin-top: 20px;
+    justify-content: space-around;
+}
+.butt
+{
+    width: 150px;
+    height: 50px;
+    border-color: black;
+    background-color: white;
+}
+.All h1
+{
+    font-size: 60px;
+    margin-left: 180px;
+    color: darkgray;
+
+}
+.image1 {
+    width: 350px; 
+    height: 80px; 
+    background-image: url('/images/UI:UX.jpeg');
+    background-size: cover;
+    background-position: center;
+}
+
+.imagecard1 {
+    width: 350px; 
+    height: 30px; 
+
+}
+.image2 {
+    width: 350px; 
+    height: 80px; 
+    background-image: url('/images/Web\ development.jpeg');
+    background-size: cover;
+    background-position: center;
+}
+
+.imagecard2 {
+    width: 350px; 
+    height: 30px; 
+}
+.image3 {
+    width: 350px; 
+    height: 80px; 
+    background-image: url('/images/Ecommerce.jpeg');
+    background-size: cover;
+    background-position: center;
+}
+.imagecard3 {
+    width: 350px; 
+    height: 30px; 
+
+}
+
+.imagecard4 {
+    width: 350px; 
+    height: 30px; 
+}
+.image4 {
+    width: 350px; 
+    height: 80px; 
+    background-image: url('/images/Mobile\ App.jpeg');
+    background-size: cover;
+    background-position: center;
+}
+
+.imagecard5 {
+    width: 350px; 
+    height: 30px; 
+}
+.image5 {
+    width: 350px; 
+    height: 80px; 
+    background-image: url('/images/catch\ commu.jpeg');
+    background-size: cover;
+    background-position: center;
+}
+
+.imagecard6 {
+    width: 350px; 
+    height: 30px; 
+ 
+}
+.image6 {
+    width: 350px; 
+    height: 80px; 
+    background-image: url('/images/Devops.jpeg');
+    background-size: cover;
+    background-position: center;
+}
+p{
+    color: darkgray;
+}
+p,h5
+{
+    margin-left: 10px;
+    padding: 5px;
+
+}
+
+
+
+
+

@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="/Css/Signin.css">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+</head>
+<body>
+  <div class="All">
+    <div class="section1">
+      <div class="nav">
+        <img src="/images/Lymdata-icon.png" class="icon">
+      </div>
+      <br>
+      <h1>Sign In</h1><br>
+      <h6 id="createAccountLink">Don't have an account?<a href="Signup.html"> Create One</a></h6><br>
+      <h6>E-mail</h6>
+      <input type="text" placeholder="  example@gmail.com" class="text"><br><br>
+      <h6>Password</h6>
+      <input type="text" placeholder="  @#*%" class="text">
+      <div class="passline"></div>
+      <div class="box">
+        <div class="eye">
+          <div class="circle">
+            <div class="circle1"></div>
+          </div>
+        </div>
+      </div>
+      <div class="checkbox">
+        <div class="form-check">
+          <input class="form-check-input" type="checkbox" value="" id="flexCheckDefault">
+          <label class="form-check-label" for="flexCheckDefault">
+            Remember Me
+          </label>
+        </div>
+        <div class="forgot">
+          <a href="forgotpassword.html">Forgot Password ?</a>
+        </div>
+      </div>
+      <button type="button" class="Sign">
+        <h4>Sign In</h4>
+      </button><br>
+      <div class="line"></div>
+      <button class="buttonl">OR</button>
+      <button type="button" class="butt"><img src="/images/google.png" class="google">
+        <h6>Continue With Google</h6>
+      </button>
+      <button type="button" class="butt"><img src="/images/facebook.png" class="facebook">
+        <h6>Continue With Facebook</h6>
+      </button>
+    </div>
+    <div class="section2">
+      <div class="headphone">
+        <div class="head1"></div>
+        <div class="head2"></div>
+        <div class="eybrow1"></div>
+        <div class="eybrow2"></div>
+        <div class="ey1"></div>
+        <div class="ey2"></div>
+        <div class="part1"></div>
+        <div class="part2"></div>
+        <h4 class="supp">Support</h4>
+      </div>
+      <div class="img">
+        <img src="/images/image.png" class="img">
+      </div>
+      <div class="intro">
+        <h1>Introducing new features</h1><br>
+        <h5 class="b">Analyazing previous trends ensures that businesses<br>
+        always make the right decision . And as the scale of <br>
+                 the decision and it's impact magnifies....</h5>
+      </div>
+     
+    </div>
+    </div>
+</body>
+<script>
+  window.onload = function () {
+    var createAccountLink = document.getElementById("createAccountLink");
+    var signInHeader = document.querySelector("h1");
+    var signInText = signInHeader.nextSibling;
+
+    function moveCreateAccountLink() {
+      if (window.innerWidth <= 768) {
+        var section1 = document.querySelector(".section1");
+        section1.appendChild(createAccountLink); 
+      } else {
+        signInHeader.parentNode.insertBefore(createAccountLink, signInText.nextSibling); 
+      }
+    }
+
+    moveCreateAccountLink(); 
+
+    window.onresize = function () {
+      moveCreateAccountLink(); 
+    };
+  };
+</script>
+
+</html>
